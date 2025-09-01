@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @merruem
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning CompTia A+, Networking and System Security(Diploma), HacktheBox, CTFs
+- 🌱 I’m currently learning CompTIA A+, Networking and System Security(Diploma), HacktheBox, CTFs
 - 💞️ I’m looking to collaborate on CTFs(beginner)
 - 📫 How to reach me merruem@proton.me
 - 😄 Pronouns: he/him
